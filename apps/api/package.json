@@ -5,7 +5,8 @@
   "main": "src/index.ts",
   "scripts": {
     "dev": "tsx watch src/index.ts",
-    "test:llm": "tsx src/services/test-llm.ts"
+    "test:llm": "tsx src/services/test-llm.ts",
+    "test:extractor": "tsx src/services/test-extractor.ts"
   },
   "dependencies": {
     "@schema-extractor/shared": "workspace:*",
