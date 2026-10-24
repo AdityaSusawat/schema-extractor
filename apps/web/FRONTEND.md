@@ -39,7 +39,7 @@ The app occupies `100vh` without global scrollbars. Each pane scrolls its own co
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
-│ TOP BAR: Backend Health Indicator | Model: Llama-3.3-70B | Active Retries │
+│ TOP BAR: Backend Health Indicator | Model: openai/gpt-oss-120b | Active Retries │
 ├───────────────────────┬────────────────────────────┬───────────────────────┤
 │ PANE 1: SCHEMA STUDIO │ PANE 2: GROUND TRUTH INPUT │ PANE 3: DIAGNOSTICS   │
 │ - Field list builder  │ - Source textarea          │ - JSON / Table view   │
